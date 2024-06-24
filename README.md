@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
+  <img src="[https://media.giphy.com/media/your-gif-id/giphy.gif](https://i.makeagif.com/media/2-13-2014/_zygIa.gif)" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm Jonathan 👋</h1>
@@ -20,9 +20,9 @@ I am a Coding Bootcamp Teaching Assistant based in Elko, NV. I have a passion fo
 - 👯 I'm looking to collaborate on [Type of Projects]
 - 🤔 I'm looking for help with [What You Need Help With]
 - 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 📫 How to reach me: jonathan.almoradie@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I'm a Navy Veteran, and I am passionate about dogs. I have 3 dogs of my own and run a successful dog walk/dog sitter business with my wife.
 
 ### 🛠️ Languages and Tools:
 
@@ -35,7 +35,7 @@ I am a Coding Bootcamp Teaching Assistant based in Elko, NV. I have a passion fo
 
 ### 📈 GitHub Stats:
 
-[[YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanalmoradie&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[[Jonathan Almoradie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanalmoradie&show_icons=true&theme=radical)](https://github.com/jonathanalmoradie/github-readme-stats)
 
 
 ### 📚 Latest Blog Posts
