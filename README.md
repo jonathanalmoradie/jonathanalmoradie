@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.makeagif.com/media/2-13-2014/_zygIa.gif" width="100%" height="auto" />
+  <img src="[https://i.makeagif.com/media/2-13-2014/_zygIa.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1em9wNWlrYjM5aDZseDhtODM4c213ZjgwM29tdzl3dTlrMDllOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif)" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm Jonathan 👋</h1>
