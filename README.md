@@ -17,7 +17,7 @@ I am a Coding Bootcamp Teaching Assistant based in Elko, NV. I have a passion fo
 - 🔭 I'm currently working on myself
 - 🌱 I'm currently learning patience
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm a Navy Veteran, and I am passionate about dogs. I have 3 dogs of my own and run a successful dog walk/dog sitter business with my wife.
+- ⚡ Fun fact: I'm a Navy Veteran, a father of three, and I am passionate about dogs. I have 3 dogs of my own and run a successful dog walk/dog sitter business with my wife.
 
 ### 🛠️ Languages and Tools:
 
