@@ -35,7 +35,7 @@ I am a Coding Bootcamp Teaching Assistant based in Elko, NV. I have a passion fo
 
 ### 📈 GitHub Stats:
 
-[[Jonathan Almoradie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanalmoradie&show_icons=true&theme=radical)](https://github.com/jonathanalmoradie/github-readme-stats)
+[![[Jonathan Almoradie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanalmoradie&show_icons=true&theme=radical)](https://github.com/jonathanalmoradie/github-readme-stats)
 
 
 ### 📚 Latest Blog Posts
