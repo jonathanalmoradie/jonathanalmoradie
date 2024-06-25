@@ -15,12 +15,8 @@
 ### 👨‍💻 About Me:
 I am a Coding Bootcamp Teaching Assistant based in Elko, NV. I have a passion for front-end development and love to create innovative solutions.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [What You're Learning]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 🤔 I'm looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: jonathan.almoradie@gmail.com
+- 🔭 I'm currently working on myself
+- 🌱 I'm currently learning patience
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a Navy Veteran, and I am passionate about dogs. I have 3 dogs of my own and run a successful dog walk/dog sitter business with my wife.
 
