@@ -5,9 +5,8 @@
 <h1 align="center">Hi there, I'm Jonathan 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter Badge"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a>
+  <a href="https://www.linkedin.com/in/jonathanalmoradie/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://rootineapp.netlify.app"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a>
 </p>
 
 ---
