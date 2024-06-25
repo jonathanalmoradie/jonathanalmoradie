@@ -2,8 +2,6 @@
   <img src="https://i.makeagif.com/media/2-13-2014/_zygIa.gif" width="100%" height="auto" />
 </div>
 
-<a href="/gif/flint-lockwood-typing-_zygIa" title="Flint Lockwood Typing"><img src="https://i.makeagif.com/media/2-13-2014/_zygIa.gif" alt="Flint Lockwood Typing"></a><div style="font-size:11px;">make <a href="/" title="make a gif">funny GIFs</a> like this at MakeaGif</div>
-
 <h1 align="center">Hi there, I'm Jonathan 👋</h1>
 
 <p align="center">
