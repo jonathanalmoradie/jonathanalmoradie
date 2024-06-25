@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.makeagif.com/media/2-13-2014/_zygIa.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1em9wNWlrYjM5aDZseDhtODM4c213ZjgwM29tdzl3dTlrMDllOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif)" width="100%" height="auto" />
+  <img src="[![https://i.makeagif.com/media/2-13-2014/_zygIa.gif]]" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm Jonathan 👋</h1>
@@ -35,7 +35,7 @@ I am a Coding Bootcamp Teaching Assistant based in Elko, NV. I have a passion fo
 
 ### 📈 GitHub Stats:
 
-[![[Jonathan Almoradie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanalmoradie&show_icons=true&theme=radical)](https://github.com/jonathanalmoradie/github-readme-stats)
+[![Jonathan Almoradie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanalmoradie&show_icons=true&theme=radical)](https://github.com/jonathanalmoradie/github-readme-stats)
 
 
 ### 📚 Latest Blog Posts
